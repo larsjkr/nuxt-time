@@ -67,7 +67,7 @@
     "happy-dom": "10.5.2",
     "husky": "8.0.3",
     "lint-staged": "14.0.1",
-    "magic-regexp": "0.6.3",
+    "magic-regexp": "0.7.0",
     "nuxt": "3.6.5",
     "nuxt-vitest": "0.10.5",
     "playwright": "1.37.1",
